@@ -17,5 +17,6 @@ public class FirstGit {
 
         System.out.println("新增方法");
         System.out.println("克隆完成后再次提交到远程仓库");
+        System.out.println("commit然后还要push");
     }
 }
