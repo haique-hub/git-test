@@ -10,8 +10,9 @@ public class FirstGit {
         System.out.println("hello,git!!!!!");
         System.out.println("hello,git!!!!!");
         System.out.println("hello,git!!!!!");
+        test();
     }
-    public void test(){
+    public static void test(){
         System.out.println("新增方法");
     }
 }
